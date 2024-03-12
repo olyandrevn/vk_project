@@ -1,0 +1,11 @@
+name: vk_proj_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10.12
+  - pandas=1.5.3
+  - catboost=1.2.3
+  - numpy=1.25.2
+  - scikit-learn=1.2.2
+  - pip
